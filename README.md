@@ -1,2 +1,7 @@
-# ecommerce-orders-customer-behavior
-E-commerce Orders and Customer Behavior Analysis using SQL, Python, and Power BI
+
+## Hi, I'm Aruna 👋  
+Aspiring Data Analyst  
+
+🔹 Skills: SQL, Python, Pandas, Power BI  
+🔹 Projects: E-commerce Orders & Customer Behavior  
+🔹 Interested in data-driven decision making
